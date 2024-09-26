@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Astrarium Games is an experimental volunteer-only video game development studio, creating interesting, innovative and original titles for PC, Console and Mobile.
+
+Our mission is to create a remote volunteer co-working space where we match enthusiastic developers, people looking to break into the industry, recent grads looking to build or grow their portfolios together, and create curated titles together from inception to launch. 
+
 <!--
 
 **Here are some ideas to get you started:**
