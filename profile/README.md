@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Astrarium Games!
 
 Astrarium Games is an experimental volunteer-only video game development studio, creating interesting, innovative and original titles for PC, Console and Mobile.
 
